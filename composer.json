@@ -1,0 +1,14 @@
+{
+    "name": "berry/phpthinga",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Masked-Idiot",
+            "email": "blaze12768@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7",
+        "bcosca/fatfree": "^3.8"
+    }
+}
