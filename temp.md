@@ -1,13 +1,1 @@
-# henlo
-
-|   title  | author |  topic  |
-| :------: | :----: | :-----: |
-| markdown | md man | idk vro |
-
-## another header
-
-| another | cool |  table  |
-| :-----: | :--: | :-----: |
-| correct | this | is cool |
-
-tables are coolio
+<form method="post" action="/handle"><input type="text" id="usr" name="usr">:<input type="text" id="cnt" name="cnt"><input type="submit" value="send"></form>
